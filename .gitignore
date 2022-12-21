@@ -5,3 +5,5 @@ __pycache__
 ui.py
 *.pdf
 video.mp4
+*.jpg
+*.png
